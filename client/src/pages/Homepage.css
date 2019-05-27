@@ -1,0 +1,36 @@
+.carousel {
+    position: relative;
+    margin-top: 15px;
+    height: 250px;
+    display: flex;
+}
+.homepageJumbo1 {
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+.homepageJumbo2 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.parallaxHome {
+    position: relative;
+    width: 100%;
+}
+.navBarContainer {
+    justify-content: space-around;
+    align-items: flex-start;
+    z-index: 10;
+    
+}
+.navBarHome {
+     position: -webkit-sticky;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+@media only screen and (max-width: 991px) {
+    
+}

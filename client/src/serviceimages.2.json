@@ -1,0 +1,231 @@
+[{
+        "id": 1,
+        "service": "Hair",
+        "styles": [
+            {
+                "style": "Haircut",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ppgwz4ad67NTtchjtoNAiTdM6YeFp3stOW7W2VJ6GrL2YDms1g"
+            },
+            {
+                "style": "All-Over Color",
+                "image": "https://www.regissalons.com/wp-content/uploads/2018/09/Colour.jpg",
+                "test": "Cut, All-over Color, Highlights, Trend Color Techniques, Deep Conditioning, Speciality Services"
+            },
+            {
+                "style": "Highlights",
+                "image": "https://www.regissalons.com/wp-content/uploads/2018/09/Highlights.jpg"
+            },
+            {
+                "style": "Trend Color Techniques",
+                "image": "https://www.regissalons.com/wp-content/uploads/2018/09/trend-colour.jpg"
+            },
+            {
+                "style": "Deep Conditioning",
+                "image": "https://www.regissalons.com/wp-content/uploads/2018/10/REG-US-Deep-Condition2.jpg"
+            },
+            {
+                "style": "Specialty Services",
+                "image": "https://www.regissalons.com/wp-content/uploads/2018/09/speciality-service-.jpg"
+            }
+        ],
+        "image": "https://kimberleymilousis.com/wp-content/uploads/2017/04/Long-Beautiful-Hair.jpg"
+    },
+    {
+        "id": 2,
+        "service": "Makeup",
+        "styles": [{
+                "style": "Bridal",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580607076263395349/wedding_makeup-alt-desktop.png"
+            },
+            {
+                "style": "Photoshoot",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580607361144586270/wedding_trial_makeup-alt-desktop.png"
+            },
+            {
+                "style": "Special Event",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580607156898889751/bridal_makeup-alt-desktop.png"
+            },
+            {
+                "style": "Custom",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580608143390801920/unknown.png?width=406&height=609"
+            }
+
+        ],
+        "image": "https://media.discordapp.net/attachments/345274420606140426/576673793334837251/image0.jpg"
+    },
+
+    {
+        "id": 3,
+        "service": "Nails",
+        "styles": [
+            {
+                "style": "Manicure",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580616555717591040/unknown.png"
+            },
+            {
+                "style": "Pedicure",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580614827580588033/pedicure-spa.png"
+            },
+            {
+                "style": "Acrylic",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580617630923096074/24pcs-set-white-3d-flower-long-false-nails.png?width=609&height=609"
+            },
+            {
+                "style": "Additional Services",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580614613440397332/309683-nail_salon_gloucester_VA_2.png"
+            }
+           
+        ],
+        "image": "https://media.discordapp.net/attachments/345274420606140426/576675207448887296/image0.jpg"
+    },
+
+    {
+        "id": 4,
+        "service": "Waxing",
+        "styles": [{
+                "style": "Full Face",
+                "image": "https://mm.aiircdn.com/120/5acdb972d9f3e.jpg"
+            },
+            {
+                "style": "Eyes",
+                "image": "https://hair-salon-albury.com/wp-content/uploads/waxing-for-the-face-1.jpg"
+            },
+            {
+                "style": "Legs",
+                "image": "https://arayabeauty.com/wp-content/uploads/2016/11/leg-waxing-1.jpg"
+            },
+            {
+                "style": "Under Arms",
+                "image": "https://s3.amazonaws.com/mytime_prod/attachments/3685/large_arm/Fotolia_45658177_Subscription_Monthly_XXL.jpg?1391237328"
+            },
+            {
+                "style": "Lips",
+                "image": "https://www.maxilashboston.com/upload/services/g5h5usc63u.jpg"
+            },
+            {
+                "style": "Full Body",
+                "image": "https://i1.wp.com/beautystudiothea.com/wp-content/uploads/2017/10/cropped-back-waxing-cr-640x640.jpg?fit=2000%2C1603&ssl=1"
+            },
+            {
+                "style": "Threading",
+                "image": "https://img.grouponcdn.com/iam/A3UVTQwxZd7iwkWcjtvd6qt1pMB/A3-2048x1229/v1/c700x420.jpg"
+            }
+
+        ],
+        "image": "https://www.totalbodywax.net/wp-content/uploads/2017/05/Waxing.jpg"
+    },
+    {
+        "id": 5,
+        "service": "Massage",
+        "styles": [
+            {
+                "style": "Full Body Massage",
+                "image": "http://onlinebeautytraining.com/wp-content/uploads/2017/03/body-massage.png"
+            },
+            {
+                "style": "Back Massage",
+                "image": "https://www.verywellhealth.com/thmb/TAazDMgT2FNYQwN_icLptCz1vso=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/woman-receiving-back-massage-883219348-5a28609c494ec90036ffed80.jpg"
+            },
+            {
+                "style": "Foot Massage",
+                "image": "https://s3-media2.fl.yelpcdn.com/bphoto/wvMhJEVXqqP68RvVfqTLOw/o.jpg"
+            },
+            {
+                "style": "Leg Massage",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiPbyogWwi87AJ8TzN1oMUkgHcCHnWuaHYe7ZcGSYNCIYitf1xQ"
+            },  
+            {
+                "style": "Neck Massage",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRmK_GYElHgzquHWtz8tMah9FrlybQrGEubp4ZdhANZU7H_Wf"
+            },
+            {
+                "style": "Hot Stone",
+                "image": "http://thegrovegp.com/wp-content/uploads/2017/03/hotstone.jpg"
+            },
+            {
+                "style": "Swedish",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1G8pJmcVTq58vPBlcgMnQbfMD8s8o3KM5XyXchNNxeSns0YS0"
+            },
+            {
+                "style": "Couple Massage",
+                "image": "https://www.spafinder.com/wp-content/uploads/2015/08/massage.jpg"
+            }
+        ],
+        "image": "https://elementsmassage.com/files/frontend/original/MASSAGE-couple.jpg"
+    },
+    {
+        "id": 6,
+        "service": "Facial",
+        "styles": [
+            {
+                "style": "European Facial",
+                "image": "https://mandalabarcelona.es/wp-content/uploads/2017/02/Mandala-Barcelona-servicios-portada-tratameintos-faciales.jpg"
+            },
+            {
+                "style": "Mini Facial",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6Yt-1YariSO9QT6blUZnbO1omjx6LXrYzofbvVHm8rRcwtKV2A"
+            },
+            {
+                "style": "Oxygen Facial",
+                "image": "http://4.bp.blogspot.com/-680NgMsNFns/VgXqsgMJIxI/AAAAAAAAE8Y/rSlDHKTG4M4/s400/Masaje%2BFacial%2BiStM.jpg"
+            },
+            {
+                "style": "Massage Facial",
+                "image": "https://mt-backend-familycircle-environment-contentbucket-1qlli1qnqqj9z.s3.amazonaws.com/s3fs-public/styles/664x398/public/2018-02/woman-getting-facial-peel.png"
+            },
+            {
+                "style": "Fruit Facial",
+                "image": "http://www.hotelcasacarolina.com/wp-content/uploads/2015/07/Fruit-Facial-Therapy-800x675.jpg"
+            },
+            {
+                "style": "Microdermal Facial",
+                "image": "http://cdn.thervo.com/assets/images/courses/costs/thervo-facial-hydro-microdermabrasion-peeling-treatment.jpg"
+            }
+
+        ],
+        "image": "https://plantationbaygolf.com/wp-content/uploads/2016/04/facial_orchid__05542.1379337037.1280.1280.jpg"
+    },
+    {
+        "id": 7,
+        "service": "Eyelashes",
+        "styles": [
+            {
+                "style": "Natural",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580629616797024276/homepage-lashmodel-left.png?width=474&height=609"
+            },
+            {
+                "style": "Dramatic",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580629673390899205/bigstock-Beauty-Girl-Portrait-with-Vivi-78680402-400x347.png"
+            },
+            {
+                "style": "Custom",
+                "image": "https://s3-media2.fl.yelpcdn.com/bphoto/308ipGFI5nGhEIjoR1bpow/ls.jpg"
+            }
+        ],
+        "image": "https://dta0yqvfnusiq.cloudfront.net/eyeca73760061/2018/08/eyelashes-5b73222ce5ae7.jpg"
+    },
+    {
+        "id": 8,
+        "service": "Microblading",
+        "styles": [
+            {
+                "style": "Ombre",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580633387585372182/EB9D3B92-AC97-473C-AC3F-E2DF252D7E4C.png"
+            },
+            {
+                "style": "Mircro & Shading",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580633442748858368/2DAF9A36-C025-4737-B7D8-5D582F4A048D.png"
+            },
+            {
+                "style": "Lips",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580634151682834432/ScreenShot2019-03-21at6.png"
+            },
+            {
+                "style": "Eyeliner",
+                "image": "https://media.discordapp.net/attachments/345274420606140426/580635845502173205/eyeliner-microblading.png"
+            }
+
+        ],
+        "image": "https://makeupbymirna.com/wp-content/uploads/2016/08/Cut-crease-2.jpg"
+    }
+]

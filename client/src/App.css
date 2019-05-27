@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.footer {
+  position: relative;
+  height: 200px;
+  background-color: black;
+  margin-bottom: 0;
+}
+.main {
+  min-height: calc(100vh - 123.69px);
+}
+
+.dv-star-rating {
+  line-height: 0;
+  vertical-align: text-bottom;
+}

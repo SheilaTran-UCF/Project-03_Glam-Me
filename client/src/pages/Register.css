@@ -1,0 +1,40 @@
+.userRegisterForm {
+    position: relative;
+    height: auto;
+    width: 420px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: black;
+    margin-top: 5rem;
+    /* margin-left:20%; */
+    margin-bottom: 5rem;
+    border-color: #d2b57f;
+    border-style: solid;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    color: #d2b57f;
+}
+.registerLinkButton{
+    margin-top: 200px;
+}
+
+.userLoginForm {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin-top: 10rem;
+    padding: 10px;
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+    margin-left:20px;
+    margin-bottom:5rem;
+    background-color: yellow
+}
+
+.react-tabs__tab {
+    color: #d2b57f;
+}
+
+.react-tabs__tab--selected {
+    color: black;
+}
